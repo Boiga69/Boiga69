@@ -1,6 +1,6 @@
 👋 Hi, I'm Boiga
 
-I'm an aspiring Penetration Tester and Cybersecurity Analyst currently on my journey to mastering offensive security techniques. I'm building hands-on experience through Hack The Box (HTB), TryHackMe (THM), and OverTheWire challenges to develop my skills in ethical hacking and security testing.
+I'm an aspiring Penetration Tester and Cybersecurity Analyst currently on my journey to mastering offensive security techniques. I'm building hands-on experience through Hack The Box (HTB), TryHackMe (THM), and OverTheWire challenges to develop my skills in ethical hacking and security testing. Further including OSINT techniques.
 
 When I’m not learning cybersecurity, I’m a wildlife photographer. I believe in the power of technology to protect wildlife, and I’m working to combine my passion for both cybersecurity and wildlife conservation.
 
@@ -14,19 +14,36 @@ When I’m not learning cybersecurity, I’m a wildlife photographer. I believe 
 
     Herpetological and Bat Ecological Surveyor
 
+    Setting up and maintaining a home lab
+
+    Actively learning linux via the use of vertual and physical hardware
+
     Wildlife Photography
 
     Setting up drones for law enforcement purposes.
 
 🛠️ Skills & Tools (Currently Learning):
 
-    Cybersecurity Training: CompTIA Security+ (in progress)
-
+    Cybersecurity Training:
+    Practical Ethical Hacking - TCM Security
+    Hack The Box
+    Try Hack Me
+    OverTheWire
+    Vulnhub
+    
     Penetration Testing: Web app security, basic network attacks, enumeration techniques.
 
     Tools: Nmap, Burp Suite, Gobuster, Metasploit, Wireshark (in learning phase).
 
     CTF & Capture the Flag (CTF): OverTheWire, Hack The Box, TryHackMe rooms.
+
+Education: 
+
+    XRY Express Certification (Logical)
+    Certified Data COllection Technician (CDaCT)
+    CompTIA Security +
+    CompTIA Network+
+    CompTIA A+
 
 🌍 Cybersecurity & Wildlife Protection:
 
