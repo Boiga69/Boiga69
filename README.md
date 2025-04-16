@@ -2,7 +2,8 @@
 
 I'm an aspiring Penetration Tester and Cybersecurity Analyst currently on my journey to mastering offensive security techniques. I'm building hands-on experience through Hack The Box (HTB), TryHackMe (THM), and OverTheWire challenges to develop my skills in ethical hacking and security testing.
 
-When I’m not learning cybersecurity, I’m a wildlife photographer. I believe in the power of technology to protect wildlife, and I’m working to combine my passion for both cybersecurity and conservation.
+When I’m not learning cybersecurity, I’m a wildlife photographer. I believe in the power of technology to protect wildlife, and I’m working to combine my passion for both cybersecurity and wildlife conservation.
+
 🧠 What I’m Working On:
 
     Actively tackling HTB, THM, and OverTheWire challenges to sharpen my practical skills in ethical hacking and pen testing.
