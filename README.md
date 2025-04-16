@@ -30,6 +30,7 @@ When I’m not learning cybersecurity, I’m a wildlife photographer. I believe 
 🌍 Cybersecurity & Wildlife Protection:
 
 As an avid wildlife photographer, I’m passionate about protecting endangered species and ecosystems. Cybersecurity plays a critical role in securing the digital platforms that support wildlife conservation efforts. My goal is to combine my cybersecurity skills with my love for wildlife protection, helping organizations secure their digital infrastructure and better protect the environment.
+
 🎯 My Goal:
 
 To become a Penetration Tester and Cybersecurity Analyst, with a focus on securing organizations and technologies that are working to protect wildlife and the environment.
