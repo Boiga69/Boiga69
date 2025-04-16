@@ -12,7 +12,7 @@ When I’m not learning cybersecurity, I’m a wildlife photographer. I believe 
 
     Learning the fundamentals of Linux, networking, and tools like Nmap, Burp Suite, and Wireshark.
 
-    Assistant Herpetology and Bat Ecological Surveyor
+    Herpetological and Bat Ecological Surveyor
 
     Wildlife Photography
 
